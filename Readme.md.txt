@@ -1,0 +1,1 @@
+Machine Learning Bootcamp organized by GDSC AUM in collaboration with Alogorythm
